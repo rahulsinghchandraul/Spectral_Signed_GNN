@@ -1,4 +1,4 @@
-# FAGCN
+# Spectral Signed GNNs
 Code of [Signed Graph Neural Networks: A Frequency Perspective](https://openreview.net/forum?id=RZveYHgZbu)
 
 
